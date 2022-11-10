@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yahyaqandel" alt="yahyaqandel" /></a> </p>
 
-- 🔭 I’m currently working on [Kwentra](kwentra.com)
+- 🔭 I’m currently working on [Kwentra](https://kwentra.com)
 
 - 🌱 I’m currently learning **DevOps, problem solving, system design**
 
